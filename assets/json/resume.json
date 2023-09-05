@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gao Zihao",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "1115287361@qq.com",
+    "phone": "+86 13264142070",
+    "url": "https://GaoZHa.github.io",
+    "summary": "一个学生",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "地址",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
@@ -16,8 +16,8 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
+        "network": "微信",
+        "username": "哎ho",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
@@ -63,12 +63,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "unskilled"
     }
   ],
   "interests": [],
