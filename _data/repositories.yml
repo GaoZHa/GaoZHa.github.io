@@ -1,9 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - GaoZHa
 
 github_repos:
-  - alshedivat/al-folio
+  - GaoZHa/GaoZHa.io
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
