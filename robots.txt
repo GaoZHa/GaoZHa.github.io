@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GaoZHa.github.io/blog//sitemap.xml
+Sitemap: https://GaoZHa.github.iohttps://github.com/GaoZHA/GaoZHa.github.io/sitemap.xml
